@@ -1,0 +1,180 @@
+Case Combination,Odds Ratio,P-Value,a,b,c,d,CID1,CID2,CID3,CID4,CID5,CID1_order,CID2_order,CID3_order,CID4_order,CID5_order
+"['Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Levothyroxine', 'Simvastatin']",1.066405555,0.859985077,9,243,136851,3940344,2244,2585,3440,5819,54454,18,31,62,144,176
+"['Acetylsalicylic Acid', 'Amlodipine', 'Furosemide', 'Metoprolol', 'Nitroglycerin']",1.563897985,0.089258894,17,313,136843,3940274,2244,2162,3440,4171,4510,18,16,62,94,102
+"['Acetylsalicylic Acid', 'Clopidogrel', 'Furosemide', 'Levothyroxine', 'Simvastatin']",1.594465195,0.063635952,17,307,136843,3940280,2244,60606,3440,5819,54454,18,181,62,144,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Clopidogrel', 'Furosemide', 'Levothyroxine']",1.760807257,0.033064329,17,278,136843,3940309,1983,2244,60606,3440,5819,8,18,181,62,144
+"['Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Salbutamol', 'Simvastatin']",1.787244842,0.024688611,18,290,136842,3940297,2244,2585,3440,2083,54454,18,31,62,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Amlodipine', 'Clopidogrel', 'Furosemide']",1.873627482,0.011365611,19,292,136841,3940295,1983,2244,2162,60606,3440,8,18,16,181,62
+"['Acetylsalicylic Acid', 'Clopidogrel', 'Furosemide', 'Levothyroxine', 'Nitroglycerin']",1.927194484,0.016081613,17,254,136843,3940333,2244,60606,3440,5819,4510,18,181,62,144,102
+"['Acetylsalicylic Acid', 'Clopidogrel', 'Metoprolol', 'Nitroglycerin', 'Omeprazole']",4.054734932,4.32E-12,39,277,136821,3940310,2244,60606,4171,4510,4594,18,181,94,102,104
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Clopidogrel', 'Metoprolol', 'Prednisone']",4.076394524,5.61E-10,31,219,136829,3940368,1983,2244,60606,4171,5865,8,18,181,94,146
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Levothyroxine', 'Prednisone']",4.077580767,2.98E-10,32,226,136828,3940361,1983,2244,3440,5819,5865,8,18,62,144,146
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Atenolol', 'Furosemide', 'Omeprazole']",4.098279107,1.14E-11,37,260,136823,3940327,1983,2244,2249,3440,4594,8,18,19,62,104
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Spironolactone']",4.100947144,1.37E-13,44,309,136816,3940278,1983,2244,2585,3440,5833,8,18,31,62,145
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Nitroglycerin', 'Omeprazole']",4.102144197,1.10E-14,48,337,136812,3940250,1983,2244,3440,4510,4594,8,18,62,102,104
+"['Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Nitroglycerin', 'Simvastatin']",4.128919088,1.40E-12,40,279,136820,3940308,2244,2585,3440,4510,54454,18,31,62,102,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Nitroglycerin', 'Pantoprazole']",4.144513972,2.37E-12,39,271,136821,3940316,1983,2244,4171,4510,4679,8,18,94,102,107
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Pantoprazole', 'Simvastatin']",4.146829448,9.02E-17,55,382,136805,3940205,1983,2244,3440,4679,54454,8,18,62,107,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Diltiazem', 'Furosemide', 'Nitroglycerin']",4.169839017,1.80E-10,32,221,136828,3940366,1983,2244,39186,3440,4510,8,18,170,62,102
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Omeprazole', 'Prednisone']",4.176941713,3.64E-12,38,262,136822,3940325,1983,2244,4171,4594,5865,8,18,94,104,146
+"['Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Prednisone', 'Simvastatin']",4.192946385,3.29E-12,38,261,136822,3940326,2244,3440,4171,5865,54454,18,62,94,146,176
+"['Acetylsalicylic Acid', 'Amlodipine', 'Metoprolol', 'Omeprazole', 'Simvastatin']",4.199772976,2.19E-11,35,240,136825,3940347,2244,2162,4171,4594,54454,18,16,94,104,176
+"['Clopidogrel', 'Furosemide', 'Metoprolol', 'Nitroglycerin', 'Simvastatin']",4.200100412,2.61E-15,49,336,136811,3940251,60606,3440,4171,4510,54454,181,62,94,102,176
+"['Acetylsalicylic Acid', 'Clopidogrel', 'Furosemide', 'Nitroglycerin', 'Salbutamol']",4.209950965,6.07E-14,44,301,136816,3940286,2244,60606,3440,4510,2083,18,181,62,102,9
+"['Acetylsalicylic Acid', 'Amlodipine', 'Furosemide', 'Omeprazole', 'Simvastatin']",4.217346319,1.98E-11,35,239,136825,3940348,2244,2162,3440,4594,54454,18,16,62,104,176
+"['Acetylsalicylic Acid', 'Amlodipine', 'Furosemide', 'Hydrochlorothiazide', 'Metoprolol']",4.242583015,6.31E-11,33,224,136827,3940363,2244,2162,3440,3639,4171,18,16,62,69,94
+"['Acetylsalicylic Acid', 'Amlodipine', 'Furosemide', 'Levothyroxine', 'Metoprolol']",4.254413946,1.15E-12,39,264,136821,3940323,2244,2162,3440,5819,4171,18,16,62,144,94
+"['Acetylsalicylic Acid', 'Metoprolol', 'Nitroglycerin', 'Omeprazole', 'Simvastatin']",4.262732367,2.95E-13,41,277,136819,3940310,2244,4171,4510,4594,54454,18,94,102,104,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Clopidogrel', 'Nitroglycerin', 'Salbutamol']",4.280806657,5.12E-11,33,222,136827,3940365,1983,2244,60606,4510,2083,8,18,181,102,9
+"['Acetaminophen', 'Clopidogrel', 'Furosemide', 'Metoprolol', 'Pantoprazole']",4.30850768,1.58E-12,38,254,136822,3940333,1983,60606,3440,4171,4679,8,181,62,94,107
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Clopidogrel', 'Metoprolol', 'Salbutamol']",4.354633871,2.12E-14,44,291,136816,3940296,1983,2244,60606,4171,2083,8,18,181,94,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Nitroglycerin', 'Omeprazole', 'Simvastatin']",4.357116841,1.56E-13,41,271,136819,3940316,1983,2244,4510,4594,54454,8,18,102,104,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Simvastatin']",4.373116043,1.53E-18,58,382,136802,3940205,1983,2244,2585,3440,54454,8,18,31,62,176
+"['Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Omeprazole', 'Simvastatin']",4.396845022,2.35E-13,40,262,136820,3940325,2244,2585,3440,4594,54454,18,31,62,104,176
+"['Amlodipine', 'Clopidogrel', 'Furosemide', 'Metoprolol', 'Simvastatin']",4.401521084,6.83E-12,35,229,136825,3940358,2162,60606,3440,4171,54454,16,181,62,94,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Spironolactone']",4.414547676,5.38E-14,42,274,136818,3940313,1983,2244,3440,4171,5833,8,18,62,94,145
+"['Acetylsalicylic Acid', 'Furosemide', 'Nitroglycerin', 'Omeprazole', 'Simvastatin']",4.430669155,1.89E-13,40,260,136820,3940327,2244,3440,4510,4594,54454,18,62,102,104,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Amlodipine', 'Furosemide', 'Omeprazole']",4.447777115,1.70E-13,40,259,136820,3940328,1983,2244,2162,3440,4594,8,18,16,62,104
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Prednisone', 'Simvastatin']",4.451087349,8.84E-17,51,330,136809,3940257,1983,2244,3440,5865,54454,8,18,62,146,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Carvedilol', 'Clopidogrel', 'Furosemide']",4.451862913,3.45E-16,49,317,136811,3940270,1983,2244,2585,60606,3440,8,18,31,181,62
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Clopidogrel', 'Metoprolol', 'Simvastatin']",4.461359106,1.01E-25,81,523,136779,3940064,1983,2244,60606,4171,54454,8,18,181,94,176
+"['Acetylsalicylic Acid', 'Furosemide', 'Nitroglycerin', 'Salbutamol', 'Simvastatin']",4.506179401,1.81E-15,46,294,136814,3940293,2244,3440,4510,2083,54454,18,62,102,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Prednisone', 'Salbutamol']",4.512191844,7.37E-12,34,217,136826,3940370,1983,2244,4171,5865,2083,8,18,94,146,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Amlodipine', 'Carvedilol', 'Furosemide']",4.533082772,6.59E-12,34,216,136826,3940371,1983,2244,2162,2585,3440,8,18,16,31,62
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Salbutamol', 'Salmeterol']",4.540838717,6.14E-22,67,425,136793,3940162,1983,2244,3440,2083,5152,8,18,62,9,122
+"['Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Salbutamol', 'Simvastatin']",4.547869817,9.27E-21,63,399,136797,3940188,2244,3440,4171,2083,54454,18,62,94,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Nitroglycerin', 'Pantoprazole']",4.594485833,3.29E-14,41,257,136819,3940330,1983,2244,3440,4510,4679,8,18,62,102,107
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Salbutamol', 'Simvastatin']",4.606373768,1.09E-24,75,469,136785,3940118,1983,2244,3440,2083,54454,8,18,62,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Clopidogrel', 'Hydrochlorothiazide', 'Metoprolol']",4.644937317,1.77E-12,35,217,136825,3940370,1983,2244,60606,3639,4171,8,18,181,69,94
+"['Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Pantoprazole', 'Simvastatin']",4.648088314,1.44E-20,61,378,136799,3940209,2244,3440,4171,4679,54454,18,62,94,107,176
+"['Acetylsalicylic Acid', 'Amlodipine', 'Hydrochlorothiazide', 'Metoprolol', 'Simvastatin']",4.681344319,5.13E-16,46,283,136814,3940304,2244,2162,3639,4171,54454,18,16,69,94,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Alprazolam', 'Furosemide', 'Nitroglycerin']",4.688148416,1.40E-12,35,215,136825,3940372,1983,2244,2118,3440,4510,8,18,11,62,102
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Nitroglycerin', 'Salbutamol', 'Simvastatin']",4.699466141,7.21E-14,39,239,136821,3940348,1983,2244,4510,2083,54454,8,18,102,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Alprazolam', 'Clopidogrel', 'Furosemide']",4.701952513,3.44E-14,40,245,136820,3940342,1983,2244,2118,60606,3440,8,18,11,181,62
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Amlodipine', 'Furosemide', 'Prednisone']",4.743497631,6.17E-15,42,255,136818,3940332,1983,2244,2162,3440,5865,8,18,16,62,146
+"['Acetaminophen', 'Clopidogrel', 'Furosemide', 'Metoprolol', 'Simvastatin']",4.75167578,3.49E-17,49,297,136811,3940290,1983,60606,3440,4171,54454,8,181,62,94,176
+"['Acetylsalicylic Acid', 'Furosemide', 'Levothyroxine', 'Metoprolol', 'Simvastatin']",4.772476494,8.45E-20,57,344,136803,3940243,2244,3440,5819,4171,54454,18,62,144,94,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Clopidogrel', 'Gabapentin', 'Metoprolol']",4.843469931,1.37E-13,37,220,136823,3940367,1983,2244,60606,3446,4171,8,18,181,63,94
+"['Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Metoprolol', 'Simvastatin']",4.844665307,2.88E-13,36,214,136824,3940373,2244,2585,3440,4171,54454,18,31,62,94,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Metoclopramide', 'Simvastatin']",4.844665307,2.88E-13,36,214,136824,3940373,1983,2244,3440,4168,54454,8,18,62,92,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Ondansetron']",4.857806175,2.99E-15,42,249,136818,3940338,1983,2244,3440,4171,4595,8,18,62,94,105
+"['Acetaminophen', 'Furosemide', 'Pantoprazole', 'Salbutamol', 'Simvastatin']",4.860678078,1.31E-14,40,237,136820,3940350,1983,3440,4679,2083,54454,8,62,107,9,176
+"['Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Nitroglycerin', 'Omeprazole']",4.896233362,2.67E-18,51,300,136809,3940287,2244,3440,4171,4510,4594,18,62,94,102,104
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Omeprazole', 'Simvastatin']",4.919559623,5.56E-22,62,363,136798,3940224,1983,2244,4171,4594,54454,8,18,94,104,176
+"['Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Nitroglycerin', 'Salbutamol']",4.925683927,5.06E-21,59,345,136801,3940242,2244,3440,4171,4510,2083,18,62,94,102,9
+"['Acetaminophen', 'Furosemide', 'Metoprolol', 'Salbutamol', 'Simvastatin']",4.937122308,1.82E-15,42,245,136818,3940342,1983,3440,4171,2083,54454,8,62,94,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Salbutamol']",4.957913688,9.82E-28,79,459,136781,3940128,1983,2244,3440,4171,2083,8,18,62,94,9
+"['Acetaminophen', 'Furosemide', 'Omeprazole', 'Salbutamol', 'Simvastatin']",4.96129644,3.37E-15,41,238,136819,3940349,1983,3440,4594,2083,54454,8,62,104,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Salbutamol', 'Simvastatin']",4.96919846,7.11E-18,49,284,136811,3940303,1983,2244,4171,2083,54454,8,18,94,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Nitroglycerin']",4.96919846,7.11E-18,49,284,136811,3940303,1983,2244,2585,3440,4510,8,18,31,62,102
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Atenolol', 'Furosemide', 'Simvastatin']",5.013463876,2.41E-17,47,270,136813,3940317,1983,2244,2249,3440,54454,8,18,19,62,176
+"['Acetylsalicylic Acid', 'Clopidogrel', 'Furosemide', 'Salbutamol', 'Salmeterol']",5.013778415,5.26E-16,43,247,136817,3940340,2244,60606,3440,2083,5152,18,181,62,9,122
+"['Acetylsalicylic Acid', 'Carvedilol', 'Clopidogrel', 'Furosemide', 'Metoprolol']",5.030493639,4.83E-15,40,229,136820,3940358,2244,2585,60606,3440,4171,18,31,181,62,94
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Nitroglycerin', 'Salbutamol']",5.031781708,4.38E-21,58,332,136802,3940255,1983,2244,3440,4510,2083,8,18,62,102,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Omeprazole', 'Prednisone']",5.064376601,3.18E-23,64,364,136796,3940223,1983,2244,3440,4594,5865,8,18,62,104,146
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Gabapentin', 'Metoprolol', 'Simvastatin']",5.06776846,1.79E-15,41,233,136819,3940354,1983,2244,3446,4171,54454,8,18,63,94,176
+"['Acetaminophen', 'Furosemide', 'Metoprolol', 'Nitroglycerin', 'Salbutamol']",5.089613581,1.57E-15,41,232,136819,3940355,1983,3440,4171,4510,2083,8,62,94,102,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Nitroglycerin', 'Salbutamol']",5.127414045,1.12E-17,47,264,136813,3940323,1983,2244,4171,4510,2083,8,18,94,102,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Omeprazole', 'Salbutamol', 'Simvastatin']",5.131838495,2.25E-18,49,275,136811,3940312,1983,2244,4594,2083,54454,8,18,104,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Salbutamol', 'Salmeterol', 'Simvastatin']",5.14278797,2.53E-15,40,224,136820,3940363,1983,2244,2083,5152,54454,8,18,9,122,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Pantoprazole', 'Salbutamol', 'Simvastatin']",5.152194466,5.30E-15,39,218,136821,3940369,1983,2244,4679,2083,54454,8,18,107,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Alprazolam', 'Furosemide', 'Metoprolol']",5.228485393,1.91E-21,57,314,136803,3940273,1983,2244,2118,3440,4171,8,18,11,62,94
+"['Acetaminophen', 'Clopidogrel', 'Furosemide', 'Metoprolol', 'Salbutamol']",5.248502495,3.12E-15,39,214,136821,3940373,1983,60606,3440,4171,2083,8,181,62,94,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Clopidogrel', 'Furosemide', 'Prednisone']",5.258151603,5.25E-17,44,241,136816,3940346,1983,2244,60606,3440,5865,8,18,181,62,146
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Gabapentin', 'Simvastatin']",5.287656469,3.86E-18,47,256,136813,3940331,1983,2244,3440,3446,54454,8,18,62,63,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Pantoprazole']",5.407128737,3.42E-19,49,261,136811,3940326,1983,2244,2585,3440,4679,8,18,31,62,107
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Carvedilol', 'Clopidogrel', 'Simvastatin']",5.415456357,2.02E-17,44,234,136816,3940353,1983,2244,2585,60606,54454,8,18,31,181,176
+"['Acetaminophen', 'Furosemide', 'Omeprazole', 'Prednisone', 'Salbutamol']",5.442723286,6.19E-19,48,254,136812,3940333,1983,3440,4594,5865,2083,8,62,104,146,9
+"['Acetylsalicylic Acid', 'Clopidogrel', 'Furosemide', 'Metoprolol', 'Prednisone']",5.475557537,9.43E-20,50,263,136810,3940324,2244,60606,3440,4171,5865,18,181,62,94,146
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Clopidogrel', 'Furosemide', 'Gabapentin']",5.485659991,3.78E-16,40,210,136820,3940377,1983,2244,60606,3440,3446,8,18,181,62,63
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Alprazolam', 'Clopidogrel', 'Metoprolol']",5.507779949,4.06E-19,48,251,136812,3940336,1983,2244,2118,60606,4171,8,18,11,181,94
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Nitroglycerin', 'Omeprazole']",5.534363723,1.47E-19,49,255,136811,3940332,1983,2244,4171,4510,4594,8,18,94,102,104
+"['Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Omeprazole', 'Salbutamol']",5.557976829,8.68E-18,44,228,136816,3940359,2244,3440,4171,4594,2083,18,62,94,104,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Prednisone', 'Simvastatin']",5.574209958,4.31E-17,42,217,136818,3940370,1983,2244,4171,5865,54454,8,18,94,146,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Amlodipine', 'Metoprolol', 'Prednisone']",5.578428495,1.80E-17,43,222,136817,3940365,1983,2244,2162,4171,5865,8,18,16,94,146
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Omeprazole', 'Salbutamol']",5.714136065,4.58E-29,73,368,136787,3940219,1983,2244,3440,4594,2083,8,18,62,104,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Gabapentin', 'Metoprolol']",5.721823759,7.64E-24,59,297,136801,3940290,1983,2244,3440,3446,4171,8,18,62,63,94
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Gabapentin', 'Omeprazole']",5.738752788,1.22E-21,53,266,136807,3940321,1983,2244,3440,3446,4594,8,18,62,63,104
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Amlodipine', 'Furosemide', 'Salbutamol']",5.806762557,1.07E-20,50,248,136810,3940339,1983,2244,2162,3440,2083,8,18,16,62,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Omeprazole', 'Prednisone', 'Salbutamol']",5.811794887,8.37E-19,45,223,136815,3940364,1983,2244,4594,5865,2083,8,18,104,146,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Hydrochlorothiazide', 'Metoprolol']",5.848698002,5.79E-22,53,261,136807,3940326,1983,2244,3440,3639,4171,8,18,62,69,94
+"['Acetaminophen', 'Furosemide', 'Pantoprazole', 'Salbutamol', 'Zolpidem']",5.888177526,2.22E-19,46,225,136814,3940362,1983,3440,4679,2083,5732,8,62,107,9,139
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Ondansetron', 'Pantoprazole']",5.901961378,5.84E-21,50,244,136810,3940343,1983,2244,3440,4595,4679,8,18,62,105,107
+"['Acetaminophen', 'Furosemide', 'Levothyroxine', 'Omeprazole', 'Salbutamol']",5.925431634,2.61E-18,43,209,136817,3940378,1983,3440,5819,4594,2083,8,62,144,104,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Prednisone', 'Salbutamol', 'Salmeterol']",5.958876868,2.45E-20,48,232,136812,3940355,1983,2244,5865,2083,5152,8,18,146,9,122
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Zolpidem']",5.973881855,1.70E-23,56,270,136804,3940317,1983,2244,3440,4171,5732,8,18,62,94,139
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Diltiazem', 'Furosemide', 'Metoprolol']",6.063572767,3.45E-22,52,247,136808,3940340,1983,2244,39186,3440,4171,8,18,170,62,94
+"['Acetylsalicylic Acid', 'Alprazolam', 'Clopidogrel', 'Furosemide', 'Metoprolol']",6.084664549,1.79E-19,45,213,136815,3940374,2244,2118,60606,3440,4171,18,11,181,62,94
+"['Acetylsalicylic Acid', 'Furosemide', 'Levothyroxine', 'Metoprolol', 'Salbutamol']",6.152965561,1.95E-20,47,220,136813,3940367,2244,3440,5819,4171,2083,18,62,144,94,9
+"['Acetaminophen', 'Furosemide', 'Pantoprazole', 'Prednisone', 'Salbutamol']",6.197862843,3.72E-22,51,237,136809,3940350,1983,3440,4679,5865,2083,8,62,107,146,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Diltiazem', 'Furosemide', 'Salbutamol']",6.386504797,1.18E-22,51,230,136809,3940357,1983,2244,39186,3440,2083,8,18,170,62,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Simvastatin', 'Spironolactone']",6.400380089,2.81E-22,50,225,136810,3940362,1983,2244,3440,54454,5833,8,18,62,176,145
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Pantoprazole', 'Zolpidem']",6.400459037,4.20E-23,52,234,136808,3940353,1983,2244,3440,4679,5732,8,18,62,107,139
+"['Acetaminophen', 'Furosemide', 'Metoprolol', 'Ondansetron', 'Pantoprazole']",6.586989744,3.61E-23,51,223,136809,3940364,1983,3440,4171,4595,4679,8,62,94,105,107
+"['Acetylsalicylic Acid', 'Furosemide', 'Hydrochlorothiazide', 'Metoprolol', 'Simvastatin']",6.603102849,3.63E-26,58,253,136802,3940334,2244,3440,3639,4171,54454,18,62,69,94,176
+"['Acetylsalicylic Acid', 'Furosemide', 'Gabapentin', 'Metoprolol', 'Simvastatin']",6.616662548,3.04E-23,51,222,136809,3940365,2244,3440,3446,4171,54454,18,62,63,94,176
+"['Acetylsalicylic Acid', 'Amlodipine', 'Furosemide', 'Metoprolol', 'Prednisone']",6.655409911,1.37E-27,61,264,136799,3940323,2244,2162,3440,4171,5865,18,16,62,94,146
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Omeprazole', 'Salbutamol']",6.71699855,6.42E-27,59,253,136801,3940334,1983,2244,4171,4594,2083,8,18,94,104,9
+"['Acetylsalicylic Acid', 'Furosemide', 'Pantoprazole', 'Salbutamol', 'Simvastatin']",6.912612605,2.75E-25,54,225,136806,3940362,2244,3440,4679,2083,54454,18,62,107,9,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Metoprolol', 'Pantoprazole', 'Salbutamol']",6.912612605,2.75E-25,54,225,136806,3940362,1983,2244,4171,4679,2083,8,18,94,107,9
+"['Acetaminophen', 'Furosemide', 'Metoprolol', 'Pantoprazole', 'Prednisone']",6.938754828,6.47E-25,53,220,136807,3940367,1983,3440,4171,4679,5865,8,62,94,107,146
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Simvastatin', 'Zolpidem']",6.952429552,2.88E-26,56,232,136804,3940355,1983,2244,3440,54454,5732,8,18,62,176,139
+"['Acetylsalicylic Acid', 'Clopidogrel', 'Furosemide', 'Gabapentin', 'Metoprolol']",6.970440409,5.39E-25,53,219,136807,3940368,2244,60606,3440,3446,4171,18,181,62,63,94
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Pantoprazole', 'Prednisone']",7.067338276,5.19E-31,66,269,136794,3940318,1983,2244,3440,4679,5865,8,18,62,107,146
+"['Acetylsalicylic Acid', 'Furosemide', 'Prednisone', 'Salbutamol', 'Salmeterol']",7.120280753,3.58E-31,66,267,136794,3940320,2244,3440,5865,2083,5152,18,62,146,9,122
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Lansoprazole', 'Metoprolol']",7.164648216,3.99E-24,50,201,136810,3940386,1983,2244,3440,3883,4171,8,18,62,81,94
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Metoclopramide', 'Metoprolol']",7.271814561,7.99E-25,51,202,136809,3940385,1983,2244,3440,4168,4171,8,18,62,92,94
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Omeprazole', 'Prednisone', 'Simvastatin']",7.325041767,1.35E-28,59,232,136801,3940355,1983,2244,4594,5865,54454,8,18,104,146,176
+"['Acetaminophen', 'Dexamethasone', 'Ondansetron', 'Prednisone', 'Zoledronate']",7.34175891,1.93E-25,52,204,136808,3940383,1983,5743,4595,5865,68740,8,140,105,146,189
+"['Acetylsalicylic Acid', 'Furosemide', 'Losartan', 'Metoprolol', 'Simvastatin']",7.467454655,1.39E-27,56,216,136804,3940371,2244,3440,3961,4171,54454,18,62,85,94,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Carvedilol', 'Furosemide', 'Metoprolol']",7.717574502,3.43E-28,56,209,136804,3940378,1983,2244,2585,3440,4171,8,18,31,62,94
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Pantoprazole', 'Salbutamol']",7.746266418,6.76E-44,89,331,136771,3940256,1983,2244,3440,4679,2083,8,18,62,107,9
+"['Acetaminophen', 'Furosemide', 'Metoprolol', 'Pantoprazole', 'Salbutamol']",7.866514423,2.69E-34,68,249,136792,3940338,1983,3440,4171,4679,2083,8,62,94,107,9
+"['Acetylsalicylic Acid', 'Furosemide', 'Metoprolol', 'Pantoprazole', 'Salbutamol']",8.065606843,7.83E-36,70,250,136790,3940337,2244,3440,4171,4679,2083,18,62,94,107,9
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Gabapentin', 'Metoprolol', 'Omeprazole']",8.187705498,2.77E-29,56,197,136804,3940390,1983,2244,3446,4171,4594,8,18,63,94,104
+"['Acetylsalicylic Acid', 'Clopidogrel', 'Gabapentin', 'Metoprolol', 'Simvastatin']",8.266811882,1.98E-33,64,223,136796,3940364,2244,60606,3446,4171,54454,18,181,63,94,176
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Gabapentin', 'Omeprazole', 'Simvastatin']",8.314325831,1.44E-29,56,194,136804,3940393,1983,2244,3446,4594,54454,8,18,63,104,176
+"['Acetaminophen', 'Dexamethasone', 'Furosemide', 'Prednisone', 'Zoledronate']",8.366915694,3.48E-32,61,210,136799,3940377,1983,5743,3440,5865,68740,8,140,62,146,189
+"['Acetaminophen', 'Furosemide', 'Gabapentin', 'Metoprolol', 'Omeprazole']",8.504140411,5.11E-33,62,210,136798,3940377,1983,3440,3446,4171,4594,8,62,63,94,104
+"['Acetaminophen', 'Furosemide', 'Omeprazole', 'Prednisone', 'Simvastatin']",8.611391933,3.09E-31,58,194,136802,3940393,1983,3440,4594,5865,54454,8,62,104,146,176
+"['Acetaminophen', 'Furosemide', 'Metoprolol', 'Omeprazole', 'Salbutamol']",8.669278152,2.06E-33,62,206,136798,3940381,1983,3440,4171,4594,2083,8,62,94,104,9
+"['Acetaminophen', 'Furosemide', 'Metoprolol', 'Salbutamol', 'Zolpidem']",9.096022622,2.43E-33,60,190,136800,3940397,1983,3440,4171,2083,5732,8,62,94,9,139
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Salbutamol', 'Zolpidem']",9.528217762,8.13E-48,85,257,136775,3940330,1983,2244,3440,2083,5732,8,18,62,9,139
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Furosemide', 'Omeprazole', 'Pantoprazole']",9.928374947,3.41E-41,71,206,136789,3940381,1983,2244,3440,4594,4679,8,18,62,104,107
+"['Acetaminophen', 'Dexamethasone', 'Fentanyl', 'Prednisone', 'Zoledronate']",10.95527884,2.24E-49,81,213,136779,3940374,1983,5743,3345,5865,68740,8,140,57,146,189
+"['Acetaminophen', 'Furosemide', 'Ondansetron', 'Pantoprazole', 'Zolpidem']",11.55440294,5.99E-46,73,182,136787,3940405,1983,3440,4595,4679,5732,8,62,105,107,139
+"['Acetaminophen', 'Dexamethasone', 'Pantoprazole', 'Prednisone', 'Zoledronate']",11.581193,3.00E-50,80,199,136780,3940388,1983,5743,4679,5865,68740,8,140,107,146,189
+"['Acetaminophen', 'Dexamethasone', 'Ondansetron', 'Prochlorperazine', 'Zoledronate']",12.62263462,1.13E-55,85,194,136775,3940393,1983,5743,4595,4917,68740,8,140,105,111,189
+"['Acetaminophen', 'Dexamethasone', 'Ondansetron', 'Pantoprazole', 'Zoledronate']",12.75132327,2.11E-53,81,183,136779,3940404,1983,5743,4595,4679,68740,8,140,105,107,189
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Dexamethasone', 'Prednisone', 'Zoledronate']",12.93857592,4.62E-64,97,216,136763,3940371,1983,2244,5743,5865,68740,8,18,140,146,189
+"['Acetaminophen', 'Alprazolam', 'Fentanyl', 'Zoledronate', 'Zolpidem']",13.47554554,8.64E-59,87,186,136773,3940401,1983,2118,3345,68740,5732,8,11,57,189,139
+"['Acetaminophen', 'Acetylsalicylic Acid', 'Dexamethasone', 'Omeprazole', 'Zoledronate']",13.62517057,4.96E-65,96,203,136764,3940384,1983,2244,5743,4594,68740,8,18,140,104,189
+"['Acetaminophen', 'Dexamethasone', 'Fentanyl', 'Zoledronate', 'Zolpidem']",14.07795537,2.09E-73,107,219,136753,3940368,1983,5743,3345,68740,5732,8,140,57,189,139
+"['Acetaminophen', 'Dexamethasone', 'Prednisone', 'Prochlorperazine', 'Zoledronate']",14.71880414,4.69E-66,94,184,136766,3940403,1983,5743,5865,4917,68740,8,140,146,111,189
+"['Acetaminophen', 'Dexamethasone', 'Fentanyl', 'Ondansetron', 'Zoledronate']",15.73044941,9.24E-69,95,174,136765,3940413,1983,5743,3345,4595,68740,8,140,57,105,189
+"['Acetaminophen', 'Dexamethasone', 'Gabapentin', 'Prednisone', 'Zoledronate']",16.30636401,1.41E-75,103,182,136757,3940405,1983,5743,3446,5865,68740,8,140,63,146,189
+"['Acetaminophen', 'Dexamethasone', 'Prochlorperazine', 'Zoledronate', 'Zolpidem']",16.43979426,1.57E-71,97,170,136763,3940417,1983,5743,4917,68740,5732,8,140,111,189,139
+"['Acetaminophen', 'Dexamethasone', 'Prednisone', 'Zoledronate', 'Zolpidem']",16.51226295,2.19E-72,98,171,136762,3940416,1983,5743,5865,68740,5732,8,140,146,189,139
+"['Acetaminophen', 'Fentanyl', 'Furosemide', 'Zoledronate', 'Zolpidem']",17.75739862,1.40E-80,106,172,136754,3940415,1983,3345,3440,68740,5732,8,57,62,189,139
+"['Acetaminophen', 'Dexamethasone', 'Ondansetron', 'Zoledronate', 'Zolpidem']",17.84534063,5.60E-83,109,176,136751,3940411,1983,5743,4595,68740,5732,8,140,105,189,139
+"['Acetaminophen', 'Ciprofloxacin', 'Dexamethasone', 'Furosemide', 'Zoledronate']",18.02988177,7.82E-82,107,171,136753,3940416,1983,2764,5743,3440,68740,8,37,140,62,189
+"['Acetaminophen', 'Dexamethasone', 'Furosemide', 'Zoledronate', 'Zolpidem']",18.58452976,2.32E-84,109,169,136751,3940418,1983,5743,3440,68740,5732,8,140,62,189,139
+"['Acetaminophen', 'Dexamethasone', 'Fentanyl', 'Furosemide', 'Zoledronate']",18.63442998,1.08E-83,108,167,136752,3940420,1983,5743,3345,3440,68740,8,140,57,62,189
+"['Acetaminophen', 'Fentanyl', 'Gabapentin', 'Zoledronate', 'Zolpidem']",18.68312645,2.27E-91,118,182,136742,3940405,1983,3345,3446,68740,5732,8,57,63,189,139
+"['Acetaminophen', 'Dexamethasone', 'Furosemide', 'Prochlorperazine', 'Zoledronate']",18.78339447,3.71E-80,103,158,136757,3940429,1983,5743,3440,4917,68740,8,140,62,111,189
+"['Acetaminophen', 'Dexamethasone', 'Fentanyl', 'Prochlorperazine', 'Zoledronate']",19.75764442,4.66E-105,133,194,136727,3940393,1983,5743,3345,4917,68740,8,140,57,111,189
+"['Acetaminophen', 'Ciprofloxacin', 'Dexamethasone', 'Fentanyl', 'Zoledronate']",20.5311617,1.17E-91,114,160,136746,3940427,1983,2764,5743,3345,68740,8,37,140,57,189
+"['Acetaminophen', 'Dexamethasone', 'Omeprazole', 'Prednisone', 'Zoledronate']",21.21891453,9.11E-109,134,182,136726,3940405,1983,5743,4594,5865,68740,8,140,104,146,189
+"['Acetaminophen', 'Dexamethasone', 'Omeprazole', 'Prochlorperazine', 'Zoledronate']",22.0199056,6.80E-112,136,178,136724,3940409,1983,5743,4594,4917,68740,8,140,104,111,189
+"['Acetaminophen', 'Dexamethasone', 'Gabapentin', 'Zoledronate', 'Zolpidem']",22.20771733,3.49E-108,131,170,136729,3940417,1983,5743,3446,68740,5732,8,140,63,189,139
+"['Acetaminophen', 'Dexamethasone', 'Fentanyl', 'Omeprazole', 'Zoledronate']",23.54414615,1.66E-105,125,153,136735,3940434,1983,5743,3345,4594,68740,8,140,57,104,189
+"['Acetaminophen', 'Dexamethasone', 'Omeprazole', 'Zoledronate', 'Zolpidem']",23.87063452,2.35E-134,159,192,136701,3940395,1983,5743,4594,68740,5732,8,140,104,189,139
+"['Acetaminophen', 'Ciprofloxacin', 'Dexamethasone', 'Prochlorperazine', 'Zoledronate']",23.95936042,5.22E-117,138,166,136722,3940421,1983,2764,5743,4917,68740,8,37,140,111,189
+"['Acetaminophen', 'Dexamethasone', 'Fentanyl', 'Gabapentin', 'Zoledronate']",24.22504371,3.24E-134,158,188,136702,3940399,1983,5743,3345,3446,68740,8,140,57,63,189
+"['Acetaminophen', 'Dexamethasone', 'Furosemide', 'Omeprazole', 'Zoledronate']",27.08475672,1.16E-110,125,133,136735,3940454,1983,5743,3440,4594,68740,8,140,62,104,189
+"['Acetaminophen', 'Dexamethasone', 'Furosemide', 'Ondansetron', 'Zoledronate']",28.6168781,6.12E-126,140,141,136720,3940446,1983,5743,3440,4595,68740,8,140,62,105,189
+"['Acetaminophen', 'Fentanyl', 'Omeprazole', 'Zoledronate', 'Zolpidem']",30.11184314,5.76E-128,140,134,136720,3940453,1983,3345,4594,68740,5732,8,57,104,189,139
+"['Acetaminophen', 'Dexamethasone', 'Furosemide', 'Gabapentin', 'Zoledronate']",35.49544852,5.40E-158,165,134,136695,3940453,1983,5743,3440,3446,68740,8,140,62,63,189
+"['Acetaminophen', 'Gabapentin', 'Omeprazole', 'Zoledronate', 'Zolpidem']",35.5289543,2.35E-152,159,129,136701,3940458,1983,3446,4594,68740,5732,8,63,104,189,139
+"['Acetaminophen', 'Dexamethasone', 'Gabapentin', 'Prochlorperazine', 'Zoledronate']",35.70803969,1.48E-134,140,113,136720,3940474,1983,5743,3446,4917,68740,8,140,63,111,189
+"['Acetaminophen', 'Dexamethasone', 'Gabapentin', 'Omeprazole', 'Zoledronate']",36.89679122,6.29E-155,160,125,136700,3940462,1983,5743,3446,4594,68740,8,140,63,104,189
